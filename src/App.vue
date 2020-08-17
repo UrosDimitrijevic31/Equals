@@ -88,7 +88,7 @@ export default {
       langs: {
         "srb": "srb",
         "eng": "eng",
-        "ћир": "cir"
+        "cir": "ћир"
       }
     };
   },

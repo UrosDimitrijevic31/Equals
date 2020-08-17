@@ -44,7 +44,7 @@
     </b-row> 
     <b-row align-h="center" class="mb-5">
       <b-col xl="5">
-        <p>National broadcaster – RTV Pink, Morning TV Show: Minister Slavica Đukić Dejanović </p>
+        <p>{{$t('oneNews.video1')}}</p>
       </b-col>
     </b-row>
     
@@ -61,7 +61,7 @@
     </b-row>
     <b-row align-h="center" >
       <b-col xl="5">
-        <p> TV Studio B, Morning TV Shown: Minister Slavica Đukić Dejanović</p>
+        <p>{{$t('oneNews.video2')}}</p>
       </b-col>
     </b-row> 
    
@@ -75,7 +75,7 @@
     </b-row>
     <b-row align-h="center" class="mb-5">
       <b-col xl="5">
-        <p>The biggest national broadcaster -RTS-1, Dnevnik 2, Presenting the project</p>
+        <p>{{$t('oneNews.video3')}}</p>
       </b-col>
     </b-row> 
     
@@ -93,7 +93,7 @@
 
     <b-row align-h="center" class="mb-5">
       <b-col xl="5">
-            <p>National TV broadcaster - Kopernikus</p>
+            <p>{{$t('oneNews.video4')}}</p>
       </b-col>
     </b-row>
     <b-row align-h="center" class="mb-5">

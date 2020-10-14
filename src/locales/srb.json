@@ -52,7 +52,7 @@
         "news": "Vesti"
     },
     "app": {
-        "disclaimer": "Sadržaj ovog dokumenta isključivo predstavlja stavove Kabineta ministra bez portfelja zaduženog za demografiju i populacionu politiku i Fondacije Ana i Vlade Divac za koje su oni isključivo odgovorni. Evropska komisija ne prihvata nikakvu odgovornost za način na koji se upotrebljavaju informacije koje sadrži.",
+        "disclaimer": "Ovaj vebsajt je izrađen uz finansijsku podršku Evropske komisije. Za sadržaj vebsajta isključivo su odgovorni Kabinet ministra bez portfelja zaduženog za demografiju i populacionu politiku i Fondacija Ana i Vlade Divac i ne može se ni pod kojim okolnostima smatrati da ovaj dokument predstavlja stavove Evropske komisije. Projekat „Jednaki - ka rodnoj ravnopravnosti usklađivanjem radnog i porodičnog života zaposlenih“ finansiran je iz programa Evropske unije „Prava, jednakost i državljanstvo (2014-2020)“.",
         "name": "Uroš Dimitrijević"    
     },
     "news": {
@@ -62,7 +62,10 @@
         "read": "PROČITAJ VIŠE",
         "back": "VRATI SE",
         "title2": "Jednaki i solidarni i u najtežim vremenima",
-        "section2": "Ministarka bez portfelja zadužena za demografiju i populacionu poltiku prof. dr Slavica Đukić Dejanović govori o aktuelnoj situaciji u vezi sa korona virusom, kako možemo da pomognemo sebi i drugima, da li postoje i neke pozitivne stvari koje možemo povezati sa pandemijom COVID-19, ali i o usklađivanju rada i roditeljstva i nivou zdravstvene pismenosti. Kabinet ministra bez portfelja zaduženog za demografiju i populacionu politiku, u saradnji sa Fondacijom ..."
+        "section2": "Ministarka bez portfelja zadužena za demografiju i populacionu poltiku prof. dr Slavica Đukić Dejanović govori o aktuelnoj situaciji u vezi sa korona virusom, kako možemo da pomognemo sebi i drugima, da li postoje i neke pozitivne stvari koje možemo povezati sa pandemijom COVID-19, ali i o usklađivanju rada i roditeljstva i nivou zdravstvene pismenosti. Kabinet ministra bez portfelja zaduženog za demografiju i populacionu politiku, u saradnji sa Fondacijom ...",
+        "title3": "Predstavljanje priručnika i javna debata „Usklađivanje radnog i porodičnog života zaposlenih“",
+        "section3": "U okvru projekta „JEDNAKI – Ka uspostavljanju rodne ravnopravnosti usklađivanjem radnog i porodičnog života zaposlenih“ predviđeno je 20 javnih debata u opštinama u Srbiji. Fondacija Ana i Vlade Divac u saradnji sa Kabinetom ministra bez portfelja zaduženog za demografiju i populacionu politiku je do sada organizovala 3 javne online debate pod imenom „Usklađivanje radnog i porodičnog života zaposlenih“ za građane opštine Sremski Karlovci, Bečej i Stari grad. Autor..."
+
     },
     "oneNews": {
         "header": "Predstavljanje projekta “JEDNAKI - Ka rodnoj ravnopravnosti usklađivanjem radnog i porodičnog života zaposlenih“",
@@ -97,6 +100,10 @@
         "p12": " 5.  Mere društvenog distanciranja utiču i na mentalno zdravlje. Da li imate preporuku na koji način možemo pomoći sebi ili drugima u slučajevima pojave panike, anksioznosti ili ostalih problema mentalnog zdravlja izazvanih samoizolacijom ili produženim boravkom kod kuće?",
         "p13": "Kao psihijatar razumem naophodnost očuvanja mentalnog zdravlja, koje je podjednako važno kao i ono telesno. Mere socijalnog distanciranja su teške, ali su u ovom trenutku neophodne i sve je veći broj osoba koje mogu osetiti nelagodu ili paniku zbog novonastale situacije. Važno je planirati i strukturisati svoj dan i ispuniti ga raznovrsnim obavezama, kako bi vreme koje provedemo kod kuće proveli što aktivnije. Posmatrajte trenutnu situaciju kao priliku da završite neke poslove za koje do sada niste pronalazili vremena. Pročitajte novu knjigu, pogledajte neki inspirativan film, pospremite fioku u koju dugo odlažete raznorazne papire. Ukoliko se javi osećaj nelagode ili drugi simptomi koje možete povezati sa aktuelnim anti-epidemijskim merama važno je da ostanete pribrani i smireni. Razgovarajte sa prijateljima putem telefona i to posebno sa onima za koje znate da će na vas delovati umirujuće, a možete da potražite i savet stručnjaka. Građani Srbije mogu računati i na moju stručnu pomoć  svake večeri od 21:00 do 22:30."
     },
+    "oneNews3": {
+        "p1": "U okvru projekta „JEDNAKI – Ka uspostavljanju rodne ravnopravnosti usklađivanjem radnog i porodičnog života zaposlenih“ predviđeno je 20 javnih debata u opštinama u Srbiji. Fondacija Ana i Vlade Divac u saradnji sa Kabinetom ministra bez portfelja zaduženog za demografiju i populacionu politiku je do sada organizovala 3 javne online debate pod imenom „Usklađivanje radnog i porodičnog života zaposlenih“ za građane opštine Sremski Karlovci, Bečej i Stari grad. Autor priručnika „Priručnik za zaposlene - Usklađivanje radnog i porodičnog života“ prof. dr Bojan Urdarević je govorio o radnim pravima zaposlenih i zakonskim okvirima koji omogućavaju bolje usklađivanje radnog i porodičnog života.",
+        "p2": "Prof.dr Bojan Uradrević je predstavio sadržaj priručnika, koncept i motiv izrade i naglasio je da postoji slabo razumevanje i znanje iz radnog odnosa kod naših zaposlenih, gde se često može čuti da je zaposleni morao da se odrekne prava na godišnji odmor, porodiljsko odsustvo i sl. Takođe, professor je naveo da će kriza usled COVID-19  iz temelja uzdrmati radne odnose, gde je tokom tri i po meseca izgubljen veliki broj radnih sati, prema istraživanju MOR-a. Priručnik posebnu pažnju poklanja zaposlenim majkama i tretira zarade i naknadu zarade, vrste radnog odnosa, radno vreme i odsustva i sl. Naveo je i da je tokom mesec dana otpušteno 12.000 ljudi, što je dodatni izazov da se tema radnog prava postavi u fokus."
+    },    
     "publication": {
         "title": "Kategorija: Publikacije"
     }

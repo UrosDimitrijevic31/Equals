@@ -10,6 +10,20 @@
        <b-col xl='6' lg="8" md="10" sm="12" cols="12" offset-xl="1" offset-lg="1"  offset-md="1">
         <b-media>
           <template v-slot:aside>
+              <a href="/Prirucnik Poslodavci Divac 210_225 Dva Web.pdf" target="_blank">
+              <b-img :src="require('../assets/pdf-icon.png')" alt="pdf-icon" fluid-grow=""></b-img>
+            </a>  
+          </template>
+          <p class="mb-0">
+            Prirucnik Poslodavci Divac 210_225 Dva Web
+          </p>
+        </b-media>
+       </b-col>
+    </b-row>
+    <b-row style="height: auto;">
+       <b-col xl='6' lg="8" md="10" sm="12" cols="12" offset-xl="1" offset-lg="1"  offset-md="1">
+        <b-media>
+          <template v-slot:aside>
               <a href="/Prirucnik za zaposlene.pdf" target="_blank">
               <b-img :src="require('../assets/pdf-icon.png')" alt="pdf-icon" fluid-grow=""></b-img>
             </a>  

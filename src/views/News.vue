@@ -11,19 +11,20 @@
         <h3>{{$t('news.category')}}</h3>
       </b-col>  
     </b-row>
-    <!-- first news -->
+
+     <!-- third news -->
     <b-row align-h="center" style="height: auto;" class="mt-5">
       <b-col cols lg="3" xl="2" style="margin-bottom: 20px;">
-        <b-img :src="require('../assets/img.jpg')" fluid-grow alt="Fluid-grow image"
+        <b-img :src="require('../assets/vest32.jpg')" fluid-grow alt="Fluid-grow image"
         ></b-img>
       </b-col>
 
       <b-col cols lg="8"  xl="5" class="col1">
         <b-card class="newsText">
-          <b-card-title class="newsTitle">{{$t('news.title')}}</b-card-title>
+          <b-card-title class="newsTitle">{{$t('news.title3')}}</b-card-title>
           <b-card-text>
-            <p>{{$t('news.section')}}</p>
-           <button @click="read1()" >{{$t('news.read')}}→</button>
+            <p>{{$t('news.section3')}}</p>
+           <button @click="read3()" >{{$t('news.read')}}→</button>
           </b-card-text>
         </b-card>
       </b-col>
@@ -45,7 +46,24 @@
         </b-card>
       </b-col>
     </b-row>
+    <!-- first news -->
+    <b-row align-h="center" style="height: auto;" class="mt-5">
+      <b-col cols lg="3" xl="2" style="margin-bottom: 20px;">
+        <b-img :src="require('../assets/img.jpg')" fluid-grow alt="Fluid-grow image"
+        ></b-img>
+      </b-col>
 
+      <b-col cols lg="8"  xl="5" class="col1">
+        <b-card class="newsText">
+          <b-card-title class="newsTitle">{{$t('news.title')}}</b-card-title>
+          <b-card-text>
+            <p>{{$t('news.section')}}</p>
+           <button @click="read1()" >{{$t('news.read')}}→</button>
+          </b-card-text>
+        </b-card>
+      </b-col>
+    </b-row>
+   
   </div>
 </template>
 
@@ -60,6 +78,11 @@ export default {
     read2() {
       this.$router.push({
         name: "OneNews2"
+      });
+    },
+    read3() {
+      this.$router.push({
+        name: "OneNews3"
       });
     }
   }

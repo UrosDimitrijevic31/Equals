@@ -52,7 +52,7 @@
       "news": "News"
     },
   "app": {
-      "disclaimer": "The content of this document represents the views of the of Minister without portfolio responsible for demography and population policy and Ana and Vlade Divac Foundation only and is their sole responsibility.The European Commission does not accept any responsibility for use that may be made of the information it contains.",
+      "disclaimer": "This website has been prepared with financial assistance from the European Commission. This website represents the views of Minister without portfolio responsible for demography and population policy and Ana and Vlade Divac Foundation and is only their responsibility. The European Commission does not accept any responsibility for use that may be made of the information contains therein.The Project EQUAL - Towards closing the gender gap in balancing professional and private lives of employees is supported by the European Commission Rights trough Programme Equality and Citizenship Programme - REC Programme.",
       "name": "Uros Dimitrijevic"    
   },
   "news": {
@@ -60,7 +60,10 @@
       "title": "We presented the project 'EQUAL – Towards closing the gender gap in balancing professional and private lives of employees' ",
       "section": "In cooperation with the Cabinet of Minister without portfolio in charge of demography and population policy, we started the new project 'EQUAL – Towards closing the gender gap in balancing professional and private lives of employees'.The project will be implemented in the next 18 months, with financial support from the European Union, through the program 'Rights, Equality and Citizenship...",
       "read": "READ ARTICLE",
-      "back": "BACK"
+      "back": "BACK",
+      "title3": "Presentation of the manual and public debate „Work-life balance for employees“",
+      "section3": "Within the project „EQUAL – Towards closing the gender gap in balancing professional and private lives of employees“ we planend public debates in 20 municipalities in Serbia. Ana and Vlade Divac Foundation, in cooperation with the Cabinet of the Minister without Portfolio in charge of Demography and Population Policy, has so far organized 3 online debates entitled „Work-life balance for employees“ for citizens of Sremski Karlovci, Becej and Stari grad. Author..."
+  
   },
   "oneNews": {
       "header": "We presented the project 'EQUAL – Towards closing the gender gap in balancing professional and private lives of employees'",
@@ -79,6 +82,10 @@
       "video3": "The biggest national broadcaster -RTS-1, Dnevnik 2, Presenting the project",
       "video4": "National TV broadcaster - Kopernikus"
   },
+  "oneNews3": {
+    "p1": "Within the project „EQUAL – Towards closing the gender gap in balancing professional and private lives of employees“, we planend public debates in 20 municipalities in Serbia. Ana and Vlade Divac Foundation, in cooperation with the Cabinet of the Minister without Portfolio in charge of Demography and Population Policy, has so far organized 3 online debates entitled „Work-life balance for employees“ for citizens of Sremski Karlovci, Becej and Stari grad. Author of the „Manual for employees - Work-life balance“ prof. Dr. Bojan Urdarevic talked about the labor rights of employees and the legal framework that allows for better balance of work and family life.",
+    "p2": "Prof. Dr. Bojan Uradrevic presented the content of the manual, the concept and motive of the development and stressed that there is poor understanding and knowledge of the employment rights of our employees. It can often be heard that the employee had to give up the right to vacation, maternity leave etc. Also, the professor stated that the crisis due to COVID-19 will fundamentally shake labor relations, since a large number of working hours were lost during three and a half months, according to the ILO research. The manual pays special attention to working mothers and treats salaries and salary compensation, types of employment, working hours and absences etc. He also stated that 12,000 people lost their jobs during one month and that is an additional challenge to put the topic of labor law in focus."
+}, 
   "publication": {
     "title": "Category: Publications"
   }
